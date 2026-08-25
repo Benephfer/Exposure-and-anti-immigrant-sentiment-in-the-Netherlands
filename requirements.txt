@@ -1,0 +1,9 @@
+geopandas==1.1.1
+pandas==3.0.0
+numpy==2.4.1
+matplotlib==3.10.8
+matplotlib-scalebar==0.9.0
+pyogrio==0.10.0
+scipy==1.16.3
+statsmodels==0.14.6
+seaborn==0.13.2
